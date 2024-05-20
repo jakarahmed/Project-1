@@ -1,0 +1,38 @@
+[
+    {
+        "img": "../public/Screenshot_9.png",
+        "title": "Wireless Bluetooth Headphones",
+        "paragraph": "Experience high-quality sound with our wireless Bluetooth headphones. Featuring noise cancellation and a comfortable over-ear design, these headphones are perfect for music lovers.",
+        "dollar_price": 89.99
+    },
+    {
+        "img": "../public/figs-5224998_1920.jpg",
+        "title": "Smart Fitness Watch",
+        "paragraph": "Track your fitness goals with our advanced smart fitness watch. Equipped with heart rate monitoring, GPS tracking, and a variety of fitness modes to keep you active.",
+        "dollar_price": 129.99
+    },
+    {
+        "img": "../public/fruit-4421752_1920.jpg",
+        "title": "Portable Solar Charger",
+        "paragraph": "Keep your devices powered up on the go with our portable solar charger. Lightweight, durable, and efficient, it's perfect for camping trips and outdoor adventures.",
+        "dollar_price": 49.99
+    },
+    {
+        "img": "../public/heart-1776746_1920.jpg",
+        "title": "Ergonomic Office Chair",
+        "paragraph": "Enhance your workspace with our ergonomic office chair. Designed for maximum comfort and support, it features adjustable height, lumbar support, and breathable mesh.",
+        "dollar_price": 199.99
+    },
+    {
+        "img": "../public/people-3098587_1920.jpg",
+        "title": "4K Ultra HD Smart TV",
+        "paragraph": "Upgrade your home entertainment system with our 4K Ultra HD Smart TV. Enjoy stunning visuals and smart connectivity features, including streaming apps and voice control.",
+        "dollar_price": 599.99
+    },
+    {
+        "img": "../public/strawberries-3359755_1920.jpg",
+        "title": "Home Espresso Machine",
+        "paragraph": "Brew barista-quality coffee at home with our home espresso machine. With multiple settings and a sleek design, it's perfect for coffee enthusiasts.",
+        "dollar_price": 249.99
+    }
+]
